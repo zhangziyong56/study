@@ -4,6 +4,7 @@
         <div class="conent"></div>
         <div class="footer"></div>
     <div>git使用</div>
+    <div>合并代码</div>
     </div>
 </template>
 <script>
