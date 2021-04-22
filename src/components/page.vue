@@ -3,6 +3,7 @@
         <div class="header"></div>
         <div class="conent"></div>
         <div class="footer"></div>
+    <div>git使用</div>
     </div>
 </template>
 <script>
